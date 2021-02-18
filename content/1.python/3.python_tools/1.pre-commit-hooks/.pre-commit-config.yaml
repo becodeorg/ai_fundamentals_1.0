@@ -1,0 +1,39 @@
+repos:
+    -   repo: local
+        hooks:
+        - id: isort
+          name: isort
+          description: 'Sort imports'
+          entry: isort
+          language: system
+          types: [python]
+          # We defined that we want to run this step when we try to commit.
+          # If you want to apply it before push juste replace commit with push.
+          stages: [commit]
+          # Add all the arguments you want to the Isort command here
+          # Make sure to make it compatible with black
+          args: 
+            - -rc
+            - --use-parentheses
+            - --multi-line=3
+        - id: black
+          name: black
+          language: system
+          description: 'Format code'
+          entry: black
+          types: [python]
+          args:
+            - --line-length=122
+        - id: flake8
+          name: flake8
+          description: 'Check logic issues'
+          language: system
+          entry: flake8
+          types: [python]
+    
+        - id: mypy
+          name: mypy
+          description: 'Check typing'
+          language: system
+          entry: mypy
+          types: [python]
