@@ -1,6 +1,6 @@
 # Artintapp - AI fundamentals: 1.0
 
-![becode logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbecode.org%2F&psig=AOvVaw2NTbtNahOq6RrQz1h_eCjl&ust=1621609719287000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCFiYvF2PACFQAAAAAdAAAAABAD)
+![becode logo](https://becode.org/app/uploads/2020/03/cropped-becode-logo-seal.png)
 
 Repo for the first AI fundamentals pilot.
 
