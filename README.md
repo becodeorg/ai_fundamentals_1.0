@@ -1,11 +1,16 @@
 # Artintapp - AI fundamentals: 1.0
 
-![becode logo](https://becode.org/app/uploads/2020/03/cropped-becode-logo-seal.png)
+<p align="center">
+  <img src="./assets/images/becode_logo.png" alt="BeCode logo"/>
+</p>
 
 Repo for the first AI fundamentals pilot.
 
 In this repo you will find all the course material or additional resources.
 
+## Installation
+In order  to follow the course, we are gonna  use [python 3](https://www.python.org/) and [jupyter notebooks](https://jupyter.org/install).
+The first step of your journey will be to install those. You can follow our [installation guide](./INSTALL.md).
 
 ## Course structure
 
