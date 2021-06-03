@@ -19,16 +19,15 @@ You will find some interesting courses about:
     - [Flask](./bonus_resources/deployment/1.Flask) how to make an API in python
     - [Docker](./bonus_resources/deployment/2.Docker) how to containerise your code to make it deployment ready.
     - [Web services](./bonus_resources/deployment/4.Web_Application) where and how  to deploy your code in the cloud for free.
-    - [Deploy jupyter](./bonus_resources/deployment/4.deploy_jupyter) How  to deploy your jupyter  notebook in the could.
+    - [Deploy jupyter](./bonus_resources/deployment/5.deploy_jupyter) How  to deploy your jupyter  notebook in the could.
 - [Git](./bonus_resources/Git) How to version your code with Git and Github
-- [Tools](./bonus_resources/Tools) What is a pre-commit hook and how to ensure code quality in the team.
 
 ### Content
 in [content](./content) your will find the main course about AI.
 
 You will find some interesting courses about:
 - [Python](./content/1.python) Learn how to use python *(from basic to advanced and even data scraping!)*
-    - [Python basic](./content/1.python/python_basics)
+    - [Python fundamentals](./content/1.python/python_fundamentals)
     - [Python advanced](./content/1.python/python_advanced)
 - [Basic preprocessing](./content/2.basic_preprocessing) How to preprocess your data to make it usable.
 - [Deep learning](./content/3.deep_learning_into) You will learn what is deep learning and  the basics concepts.
